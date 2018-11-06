@@ -10,7 +10,7 @@
 - [Java範例程式碼](https://github.com/ptxmotc/XMLValidation/tree/master/Java)
 
 ------
- [Parking XML Schema資料驗證工具](https://parking.transportdata.tw/Parking/XSDValidator/Validator)
+ [Parking XML Schema資料驗證工具](https://ptx.transportdata.tw/Parking/XSDValidator/Validator)
 
 
 
