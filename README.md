@@ -10,7 +10,7 @@
 ------
 
 相關網站：
-- [Parking XML Schema資料驗證工具](https://ptx.transportdata.tw/PTXValidator/XSDValidator/Parking)
+- [Parking XML Schema資料驗證工具](http://210.59.250.227/PTXValidator/XSDValidator/Parking)
 
 
 
