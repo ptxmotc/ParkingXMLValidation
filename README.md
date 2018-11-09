@@ -4,13 +4,13 @@
 
 ## 平台提供教學範例
 
-- [ASP.NET範例程式碼](https://github.com/ptxmotc/XMLValidation/tree/master/ASP.NET)
-- [Java範例程式碼](https://github.com/ptxmotc/XMLValidation/tree/master/Java)
+- [ASP.NET範例程式碼](https://github.com/ptxmotc/ParkingXMLValidation/tree/master/ASP.NET)
+- [Java範例程式碼](https://github.com/ptxmotc/ParkingXMLValidation/tree/master/Java)
 
 ------
 
 相關網站：
-- [Parking XML Schema資料驗證工具](https://ptx.transportdata.tw/Parking/XSDValidator/Validator)
+- [Parking XML Schema資料驗證工具](https://ptx.transportdata.tw/PTXValidator/XSDValidator/Parking)
 
 
 
